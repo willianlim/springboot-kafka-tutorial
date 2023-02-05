@@ -9,7 +9,7 @@
 ## 📥 Installation
 
 ```bash
-git clone 
+git clone git@github.com:willianlim/springboot-kafka-tutorial.git
 ```
 
 ## ✍ Usage
@@ -24,4 +24,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## 📝 License
-- Software license [`LICENSE`]()
+- Software license [`LICENSE`](https://github.com/willianlim/springboot-kafka-tutorial/blob/master/LICENSE)
